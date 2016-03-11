@@ -33,8 +33,10 @@
     <Compile Include="Args\AddAssociationsEventArgsBase.cs" />
     <Compile Include="DynamicEditableEntityDto.cs" />
     <Compile Include="EditableEntityDto.cs" />
+    <Compile Include="EditableEntityDtoT.cs" />
     <Compile Include="EntityAttributeDto.cs" />
     <Compile Include="EntityDto.cs" />
+    <Compile Include="EntityDtoT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

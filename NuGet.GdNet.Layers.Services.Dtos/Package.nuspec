@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>GdNet.Layers.Dtos</id>
-    <version>1.1.0</version>
+    <version>2.0.0</version>
     <title>GdNet.Layers.Dtos</title>
     <authors>RabbitSoftware</authors>
     <owners>junioho</owners>
@@ -12,15 +12,17 @@
     <releaseNotes>
     </releaseNotes>
     <summary>
+      Version 2.0.0
+      - Support generic
       Version 1.1.0
       - Add StateLastChangedAt property on EditableEntityDto
     </summary>
     <language>en-US</language>
-    <projectUrl>https://nuget.org/packages/NuGet.GdNet.Layers.Services.Dtos</projectUrl>
+    <projectUrl>https://github.com/vndevpro/architecture-dtos</projectUrl>
     <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
-    <copyright>Copyright RabbitSoftware 2015</copyright>
+    <copyright>Copyright @ RabbitSoftware 2015-2016</copyright>
     <dependencies>
         <!--<group targetFramework="net40">
           <dependency id="log4net" version="1.2.10" />
